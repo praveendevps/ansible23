@@ -1,2 +1,2 @@
 myjavaonubuntu: openjdk-8-jre-headless
-myjavaonamazonlinux2: java-1.8.0-openjdk
+myjavaonamazonlinux2: java-11-amazon-corretto-headless
