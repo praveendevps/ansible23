@@ -4,7 +4,7 @@
   tasks:
   - name: install webserver(apache2) on ubuntu20 node
     apt:
-     name: (apache2
+     name: apache2
      state: present
 
   - name: start the apache2 service
